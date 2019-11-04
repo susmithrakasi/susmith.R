@@ -1,1 +1,1 @@
-# susmith.R
+# LEARNING TO EARN
